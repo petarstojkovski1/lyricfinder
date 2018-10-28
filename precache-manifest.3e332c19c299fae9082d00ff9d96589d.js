@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/lyricfinder/static/js/runtime~main.404cd28e.js"
   },
   {
-    "revision": "c0ab22ff1e2d7f6e8ca6",
-    "url": "/lyricfinder/static/js/main.c0ab22ff.chunk.js"
+    "revision": "3ac73605b935fe04504d",
+    "url": "/lyricfinder/static/js/main.3ac73605.chunk.js"
   },
   {
     "revision": "4e0f572309c00dd75f35",
     "url": "/lyricfinder/static/js/1.4e0f5723.chunk.js"
   },
   {
-    "revision": "c0ab22ff1e2d7f6e8ca6",
+    "revision": "3ac73605b935fe04504d",
     "url": "/lyricfinder/static/css/main.6f767a65.chunk.css"
   },
   {
-    "revision": "907406499f9302a78b1bdd721a1265ae",
+    "revision": "932d358719b99965a9c0e1761f5105b6",
     "url": "/lyricfinder/index.html"
   }
 ];
